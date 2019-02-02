@@ -1,0 +1,16 @@
+{
+  "name": "test2019.bower",
+  "authors": [
+    "khurshed <khurshed@t9l.com>"
+  ],
+  "description": "testing of mypackage",
+  "main": "index",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
